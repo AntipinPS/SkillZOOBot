@@ -1,0 +1,18 @@
+[
+    {
+        "feadback": "message.text",
+        "user": "message.from_user.username"
+    },
+    {
+        "feadback": "Как то так и так",
+        "user": "ChistoCatBazilio"
+    },
+    {
+        "feadback": "Сделайте так!",
+        "user": "ChistoCatBazilio"
+    },
+    {
+        "feadback": "Вот так",
+        "user": "ChistoCatBazilio"
+    }
+]
